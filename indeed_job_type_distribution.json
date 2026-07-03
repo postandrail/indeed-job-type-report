@@ -1,15 +1,50 @@
 {
   "database": "/Users/gaul/Documents/Codex/shared/indeed/indeed_jobs.sqlite",
-  "total_jobs": 636,
-  "total_companies": 408,
+  "total_jobs": 669,
+  "total_companies": 430,
   "first_seen_at": "2026-07-01T20:44:59+00:00",
-  "last_seen_at": "2026-07-02T20:35:05+00:00",
+  "last_seen_at": "2026-07-02T21:40:17+00:00",
+  "requirement_counts": [
+    {
+      "experience_required": "yes",
+      "count": 359,
+      "percent": 53.7
+    },
+    {
+      "experience_required": "unclear",
+      "count": 192,
+      "percent": 28.7
+    },
+    {
+      "experience_required": "no",
+      "count": 118,
+      "percent": 17.6
+    }
+  ],
   "category_counts": [
     {
       "category": "Marketing & Growth",
-      "count": 82,
-      "percent": 12.9,
+      "count": 85,
+      "percent": 12.7,
       "examples": [
+        {
+          "title": "Virtual Marketing Assistant",
+          "company": "Shipnow Information Technology Pty Ltd",
+          "pay": "PHP 22,000 - PHP 25,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Marketing Virtual Assistant (REMOTE)",
+          "company": "FBC Asia Pacific",
+          "pay": "",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Philippines - Marketing Assistant",
+          "company": "Teem",
+          "pay": "",
+          "job_type": "Full-time"
+        },
         {
           "title": "Media Relations Associate",
           "company": "Perceptions, Inc.",
@@ -21,55 +56,37 @@
           "company": "Unify360",
           "pay": "",
           "job_type": "Full-time"
-        },
-        {
-          "title": "Growth Marketing Specialist (Paid Ads & Lead Generation)",
-          "company": "Remote Careers PH",
-          "pay": "PHP 28,000 - PHP 85,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "PPC Media Buyer",
-          "company": "Hennessey Digital",
-          "pay": "PHP 40,400 - PHP 52,900 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Lead Manager Influencer Marketing",
-          "company": "88 Affect",
-          "pay": "PHP 24,000 a month",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Sales & Business Development",
-      "count": 81,
+      "count": 85,
       "percent": 12.7,
       "examples": [
         {
-          "title": "Sales Development Representative (Setter)",
-          "company": "Climate IQ",
-          "pay": "",
+          "title": "Sales & Partnerships Executive (Remote)",
+          "company": "Maple Tree Media Pte Ltd",
+          "pay": "PHP 30,000 - PHP 40,000 a month",
           "job_type": "Permanent, Full-time"
         },
         {
-          "title": "Sales Representative (must have outbound sales experience) | 6-month contract | WFH",
-          "company": "Sourcefit Philippines",
-          "pay": "Up to PHP 48,000 a month",
-          "job_type": "Temporary"
-        },
-        {
-          "title": "Sales Assistant",
-          "company": "MODBIKES",
-          "pay": "",
+          "title": "Customer Success Specialist",
+          "company": "Smartual Philippines Enterprise Inc.",
+          "pay": "PHP 40,000 a month",
           "job_type": "Full-time"
         },
         {
-          "title": "Sales Admin Assistant (International)",
-          "company": "Intelligent Technical Solutions",
-          "pay": "",
+          "title": "Appointment Setter/Cold Caller",
+          "company": "Loyaltypower7 Solutions Inc",
+          "pay": "PHP 20,000 - PHP 30,000 a month",
           "job_type": "Full-time"
+        },
+        {
+          "title": "Account Executive",
+          "company": "Wide-out Workforces Inc.",
+          "pay": "PHP 55,000 - PHP 75,000 a month",
+          "job_type": "Permanent"
         },
         {
           "title": "Sales Development Representative (Setter)",
@@ -80,10 +97,59 @@
       ]
     },
     {
-      "category": "Accounting & Finance",
-      "count": 80,
-      "percent": 12.6,
+      "category": "Operations & Project Management",
+      "count": 82,
+      "percent": 12.3,
       "examples": [
+        {
+          "title": "Virtual Leasing Coordinator",
+          "company": "SubSource",
+          "pay": "PHP 24,500 - PHP 58,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Project Manager",
+          "company": "HighSpark Pte Ltd",
+          "pay": "PHP 40,000 - PHP 60,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Philippines - Project Manager",
+          "company": "Teem",
+          "pay": "",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Client Team Coordinator",
+          "company": "Romano Law PLLC",
+          "pay": "From PHP 70,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Project Manager (PH Based)",
+          "company": "The Visionary Group TX LLC",
+          "pay": "PHP 340 - PHP 580 an hour",
+          "job_type": "Full-time"
+        }
+      ]
+    },
+    {
+      "category": "Accounting & Finance",
+      "count": 81,
+      "percent": 12.1,
+      "examples": [
+        {
+          "title": "Bookkeeper Virtual Assistant- AU shift (7am to 4pm PH Local Time)",
+          "company": "Blueprint Business Solutions, Corp.",
+          "pay": "",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Bookkeeper (Canada)",
+          "company": "Pixel Buddy Solutions",
+          "pay": "PHP 300 - PHP 340 an hour",
+          "job_type": "Part-time"
+        },
         {
           "title": "Tax Preparer (US)",
           "company": "LTD Global",
@@ -101,100 +167,63 @@
           "company": "Expedock",
           "pay": "",
           "job_type": ""
-        },
-        {
-          "title": "Junior Accountant Bookkeeper- AU Account",
-          "company": "ESC Corporation",
-          "pay": "",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Tax Accountant- AU Client",
-          "company": "The Efficiency Collective Pty Ltd.",
-          "pay": "PHP 80,000 - PHP 95,000 a month",
-          "job_type": "Full-time"
-        }
-      ]
-    },
-    {
-      "category": "Operations & Project Management",
-      "count": 77,
-      "percent": 12.1,
-      "examples": [
-        {
-          "title": "Project Manager (PH Based)",
-          "company": "The Visionary Group TX LLC",
-          "pay": "PHP 340 - PHP 580 an hour",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Industrial Procurement Sourcing Specialist",
-          "company": "Petroleo Solutions LLC",
-          "pay": "PHP 24,003.57 - PHP 37,271.87 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Property Maintenance & Operations Coordinator",
-          "company": "DSV Digital Management Corporation",
-          "pay": "PHP 25,000 - PHP 35,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Operations Coordinator (Marketing Agency)",
-          "company": "Aesthetic Acquisition",
-          "pay": "PHP 80,000 - PHP 120,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Clinical Data Management Support Coordinator",
-          "company": "Thermo Fisher Scientific",
-          "pay": "",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Software, Data & IT",
-      "count": 54,
-      "percent": 8.5,
+      "count": 58,
+      "percent": 8.7,
       "examples": [
+        {
+          "title": "Reseller Acquisition Specialist – Cold Email Outreach",
+          "company": "Vivid",
+          "pay": "PHP 50,000 - PHP 65,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "DATA TESTER (Project-based, Remote)",
+          "company": "MISNet, Inc.",
+          "pay": "PHP 50,000 - PHP 60,000 a month",
+          "job_type": "Fixed term"
+        },
+        {
+          "title": "Content Strategist and Writer to start ASAP",
+          "company": "GRSee Consulting Inc",
+          "pay": "",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Customer Care Agent (Remote)",
+          "company": "STAFFVIRTUAL (a brand of Virtoren Services, Inc.)",
+          "pay": "PHP 50,000 - PHP 57,500 a month",
+          "job_type": "Full-time"
+        },
         {
           "title": "AI Video Editor",
           "company": "MtrxMedia",
           "pay": "PHP 90,000 a month",
-          "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "Digital Marketing, SEO, Web Admin & AI Automation Specialist",
-          "company": "PANDR Outsourcing",
-          "pay": "PHP 50,000 - PHP 60,000 a month",
-          "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "SQL Database Administrator",
-          "company": "Pomeroy Technologies Philippines Inc.",
-          "pay": "PHP 90,000 - PHP 110,000 a month",
-          "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "IT Reporting Specialist (AWS)",
-          "company": "Extension eCom LLC",
-          "pay": "",
-          "job_type": "Part-time"
-        },
-        {
-          "title": "Technical Support Representative | Remote | $6 USD/hr (₱360+/hr) | Weekly Pay | Full-Time",
-          "company": "ResolveIQ",
-          "pay": "Up to PHP 360 an hour",
           "job_type": "Permanent, Full-time"
         }
       ]
     },
     {
       "category": "Creative Content & Design",
-      "count": 39,
+      "count": 41,
       "percent": 6.1,
       "examples": [
+        {
+          "title": "TikTok Content Creator",
+          "company": "Artworkout",
+          "pay": "PHP 18,400 - PHP 49,067 a month",
+          "job_type": "Part-time, Temporary"
+        },
+        {
+          "title": "AI Real Estate Video Editor",
+          "company": "Pixel Buddy Solutions",
+          "pay": "PHP 228 - PHP 285 an hour",
+          "job_type": "Full-time"
+        },
         {
           "title": "Content Creator",
           "company": "Skyrocket Studios",
@@ -212,31 +241,31 @@
           "company": "Arena Capital",
           "pay": "PHP 30,000 a month",
           "job_type": "Full-time"
-        },
-        {
-          "title": "Video Editor",
-          "company": "Extension eCom LLC",
-          "pay": "PHP 3,920 - PHP 5,600 a week",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Full-Time Video Editor (Adobe Premiere Pro Required)",
-          "company": "Crunchy Lemons",
-          "pay": "From PHP 40,000 a month",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Healthcare & Medical Admin",
-      "count": 36,
+      "count": 38,
       "percent": 5.7,
       "examples": [
+        {
+          "title": "IP Medical Coder [2x a month]",
+          "company": "Freelancing Philippines",
+          "pay": "PHP 70,000 - PHP 90,000 a month",
+          "job_type": "Full-time"
+        },
         {
           "title": "Medical Coding And Billing Specialist",
           "company": "DrHouse, Inc.",
           "pay": "",
           "job_type": "Fixed term"
+        },
+        {
+          "title": "Medical Billing Manager- Work from Home",
+          "company": "JOHN CLEMENTS CONSULTANTS",
+          "pay": "PHP 60,000 - PHP 70,000 a month",
+          "job_type": "Permanent, Full-time"
         },
         {
           "title": "Facets Configuration Analyst",
@@ -249,26 +278,26 @@
           "company": "ResolveIQ",
           "pay": "Up to PHP 60,000 a month",
           "job_type": "Permanent"
-        },
-        {
-          "title": "USRN PTP (WFH)",
-          "company": "ACCPRO INTERNATIONAL",
-          "pay": "PHP 50,000 - PHP 60,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "CTM I/II",
-          "company": "Syneos - Clinical and Corporate - Prod",
-          "pay": "",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Admin, Executive Assistance & VA",
-      "count": 35,
+      "count": 37,
       "percent": 5.5,
       "examples": [
+        {
+          "title": "Construction Administrative Assistant",
+          "company": "EcoBuild",
+          "pay": "From PHP 60,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Executive Assistant to the CEO| Full-Time| Permanent WFH| US Client",
+          "company": "Kruew",
+          "pay": "From PHP 25,000 a month",
+          "job_type": "Permanent, Full-time"
+        },
         {
           "title": "Virtual Assistant - Operations Expert",
           "company": "eFLEXervices, Inc.",
@@ -286,25 +315,13 @@
           "company": "(B.E.S.T.) BEHAVIOR EDUCATION SERVICES TEAM",
           "pay": "PHP 40,000 - PHP 45,000 a month",
           "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "Admin Assistant - US Insulation Experience",
-          "company": "Ecobuild",
-          "pay": ": From Php60,000.00 per month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Executive Assistant - Marketing Focus",
-          "company": "Scale Up Staff",
-          "pay": "PHP 40,000 - PHP 60,000 a month",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Education & Training",
       "count": 32,
-      "percent": 5.0,
+      "percent": 4.8,
       "examples": [
         {
           "title": "WFH Outbound Agent",
@@ -341,7 +358,7 @@
     {
       "category": "Real Estate & Property",
       "count": 30,
-      "percent": 4.7,
+      "percent": 4.5,
       "examples": [
         {
           "title": "Tenant Relations & Operations Virtual Assistant | Remote Property Management Support",
@@ -377,45 +394,45 @@
     },
     {
       "category": "Customer Support & Service",
-      "count": 19,
-      "percent": 3.0,
+      "count": 23,
+      "percent": 3.4,
       "examples": [
+        {
+          "title": "Debt Collector (Remote)",
+          "company": "Global Choice Solutions",
+          "pay": "PHP 50,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Sports Betting Placement Specialist",
+          "company": "Novaro capital holdings",
+          "pay": "",
+          "job_type": "Permanent, Full-time"
+        },
+        {
+          "title": "Platform CSR",
+          "company": "Trojans Well Entertainment Corporation",
+          "pay": "PHP 20,000 a month",
+          "job_type": "Permanent, Full-time"
+        },
+        {
+          "title": "Customer Service Representative (CSR)",
+          "company": "Planner Bee",
+          "pay": "PHP 30,000 - PHP 40,000 a month",
+          "job_type": "Full-time"
+        },
         {
           "title": "Customer Service Specialist – German Speaking | WFH | Mid Shift | Day 1 HMO | Weekends Off",
           "company": "EMAPTA",
           "pay": "",
           "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "Pre-Sales Inbound Phone Agent | Remote | $6.50 USD/hr (₱390+/hr) | Weekly Pay | Full-Time",
-          "company": "ResolveIQ",
-          "pay": "Up to PHP 390 an hour",
-          "job_type": "Permanent, Full-time"
-        },
-        {
-          "title": "Customer Service Representative – Roofing, Insulation & Solar Experience Required (After Hours)",
-          "company": "Ecobuild",
-          "pay": "From PHP 1,600 a day",
-          "job_type": "Part-time"
-        },
-        {
-          "title": "Sage Intacct Implementation & Support Specialist (Remote)",
-          "company": "CinRetta Digital Marketing Services",
-          "pay": "From PHP 70,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Client Services Team Member",
-          "company": "The Consultant Agency",
-          "pay": "Up to PHP 277 an hour",
-          "job_type": "Full-time"
         }
       ]
     },
     {
       "category": "Vibe Coding / AI App Building",
       "count": 18,
-      "percent": 2.8,
+      "percent": 2.7,
       "examples": [
         {
           "title": "Philippines - Hub Spot Specialist",
@@ -450,21 +467,52 @@
       ]
     },
     {
+      "category": "Legal",
+      "count": 15,
+      "percent": 2.2,
+      "examples": [
+        {
+          "title": "Case Manager Assistant",
+          "company": "Lawyer Vince",
+          "pay": "PHP 370 - PHP 740 an hour",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Legal Tech Specialist [PH]",
+          "company": "Founders Doc Pte. Ltd.",
+          "pay": "PHP 25,000 - PHP 50,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Copy Editor (Graveyard Shift)",
+          "company": "IBT Media",
+          "pay": "",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Spanish-Speaking Personal Injury Legal Assistant / Case Manager",
+          "company": "Thrive Technologies Inc.",
+          "pay": "PHP 488 an hour",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "Legal Intake & Client Relations Specialist (Remote – Philippines)",
+          "company": "Business and Project Analysts",
+          "pay": "PHP 43,000 - PHP 61,400 a month",
+          "job_type": "Permanent"
+        }
+      ]
+    },
+    {
       "category": "Ecommerce & Marketplace",
-      "count": 16,
-      "percent": 2.5,
+      "count": 15,
+      "percent": 2.2,
       "examples": [
         {
           "title": "Content Moderation Specialist (PH)",
           "company": "Centro.team",
           "pay": "",
           "job_type": "Full-time"
-        },
-        {
-          "title": "3PL & Shopify Operations Lead",
-          "company": "PerkUp, Inc.",
-          "pay": "",
-          "job_type": ""
         },
         {
           "title": "Ecommerce Executive (Shopee, Tiktok, Lazada Seller Center Management)",
@@ -483,51 +531,38 @@
           "company": "Avenue7Media",
           "pay": "PHP 38,000 - PHP 45,000 a month",
           "job_type": "Permanent"
-        }
-      ]
-    },
-    {
-      "category": "Legal",
-      "count": 13,
-      "percent": 2.0,
-      "examples": [
+        },
         {
-          "title": "Copy Editor (Graveyard Shift)",
-          "company": "IBT Media",
+          "title": "Director of Product and Design",
+          "company": "Kraymer Art",
           "pay": "",
           "job_type": "Full-time"
-        },
-        {
-          "title": "Spanish-Speaking Personal Injury Legal Assistant / Case Manager",
-          "company": "Thrive Technologies Inc.",
-          "pay": "PHP 488 an hour",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Legal Intake & Client Relations Specialist (Remote – Philippines)",
-          "company": "Business and Project Analysts",
-          "pay": "PHP 43,000 - PHP 61,400 a month",
-          "job_type": "Permanent"
-        },
-        {
-          "title": "Paralegal",
-          "company": "OVATech OPC",
-          "pay": "PHP 30,000 - PHP 32,000 a month",
-          "job_type": "Part-time"
-        },
-        {
-          "title": "Legal Assistant",
-          "company": "OVATech OPC",
-          "pay": "PHP 30,000 - PHP 32,000 a month",
-          "job_type": "Part-time"
         }
       ]
     },
     {
       "category": "HR & Recruiting",
-      "count": 11,
-      "percent": 1.7,
+      "count": 14,
+      "percent": 2.1,
       "examples": [
+        {
+          "title": "Early Childhood Recruiter",
+          "company": "NAIS CORP.",
+          "pay": "PHP 45,000 - PHP 60,000 a month",
+          "job_type": "Full-time"
+        },
+        {
+          "title": "HR Admin Support Specialist",
+          "company": "Data Destruction Services",
+          "pay": "",
+          "job_type": "Part-time"
+        },
+        {
+          "title": "Home Care VA Scheduler/Recruiter",
+          "company": "OLIVIA Professional Solutions",
+          "pay": "PHP 35,000 - PHP 40,000 a month",
+          "job_type": "Permanent, Fresh graduate, Full-time"
+        },
         {
           "title": "Technical Recruiter",
           "company": "Teoh Capital",
@@ -539,32 +574,26 @@
           "company": "Schwarz Logistics",
           "pay": "PHP 55,100 - PHP 122,400 a month",
           "job_type": "Full-time"
-        },
-        {
-          "title": "Recruitment Lead - WFH | Night Shift",
-          "company": "Thrivemodal",
-          "pay": "PHP 85,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "US Human Resources Assistant",
-          "company": "MEDVA",
-          "pay": "",
-          "job_type": ""
-        },
-        {
-          "title": "HR Intern",
-          "company": "Podcast Network Asia",
-          "pay": "",
-          "job_type": "Part-time, OJT (On the job training), Fresh graduate"
         }
       ]
     },
     {
       "category": "Engineering, Architecture & CAD",
-      "count": 9,
-      "percent": 1.4,
+      "count": 11,
+      "percent": 1.6,
       "examples": [
+        {
+          "title": "pipework draftsperson",
+          "company": "Adseal Group",
+          "pay": "PHP 200 - PHP 500 an hour",
+          "job_type": "Part-time"
+        },
+        {
+          "title": "Power BI Architect",
+          "company": "Penbrothers",
+          "pay": "",
+          "job_type": "Full-time"
+        },
         {
           "title": "Intermediate Revit Draftsperson / Revit BIM Specialist (Remote)",
           "company": "QDE Engineering Pty Ltd",
@@ -582,18 +611,6 @@
           "company": "CinRetta Digital Marketing Services",
           "pay": "",
           "job_type": "Full-time"
-        },
-        {
-          "title": "Remote Experienced Structural Draftsman – AutoCAD (Class 2, well versed in X-Ref System)",
-          "company": "Zenith Outsourcing Pty Ltd",
-          "pay": "From PHP 50,000 a month",
-          "job_type": "Full-time"
-        },
-        {
-          "title": "Tekla Miscellaneous Steel Modeler: Full-time WFH",
-          "company": "Qualis Solutions, LLC",
-          "pay": "From PHP 300 an hour",
-          "job_type": "Permanent, Full-time"
         }
       ]
     },
