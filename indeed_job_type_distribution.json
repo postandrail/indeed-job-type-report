@@ -7,18 +7,18 @@
   "requirement_counts": [
     {
       "experience_required": "yes",
-      "count": 522,
-      "percent": 78.0
+      "count": 526,
+      "percent": 78.6
     },
     {
       "experience_required": "unclear",
-      "count": 80,
-      "percent": 12.0
+      "count": 85,
+      "percent": 12.7
     },
     {
       "experience_required": "no",
-      "count": 67,
-      "percent": 10.0
+      "count": 58,
+      "percent": 8.7
     }
   ],
   "category_counts": [
